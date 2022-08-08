@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.bancosantander</groupId>
   <artifactId>ReglasNegocioTC</artifactId>
-  <version>4.3.7-SNAPSHOT</version>
+  <version>4.3.8-SNAPSHOT</version>
   <packaging>kjar</packaging>
   <name>ReglasNegocioTC</name>
   <description>Reglas de negocio Tarjeta de Crédito.</description>
